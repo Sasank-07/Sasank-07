@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello👋I am Sasank. I am From India Pursuing BTech Degree📜 in Electronics and Communication Engineering💡 From National Institute Of Technology, Calicut.
+
+
+
+
+
 <!--
 **Sasank-07/Sasank-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
